@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: Ice cream shop cant pay a service" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-10-19T03:50:24" hostname="MIGUEL-PC" time="0.002">
+  <properties/>
+  <testcase name="Given Ice cream shop with an initial amount of 200" classname="Scenario: Ice cream shop cant pay a service" time="0.001"/>
+  <testcase name="When Trying to pay a service for 260" classname="Scenario: Ice cream shop cant pay a service" time="0.0"/>
+  <testcase name="Then Ice cream shop final amount is 200" classname="Scenario: Ice cream shop cant pay a service" time="0.0"/>
+  <testcase name="And Ice cream final debt amount is 260" classname="Scenario: Ice cream shop cant pay a service" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: Ice cream shop cant pay a service" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
